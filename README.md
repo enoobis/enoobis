@@ -29,7 +29,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-A living being. The species of the genus Humans from the family hominidae in the order primates. I have the gift of thinking and speech, I am a carrier of consciousness, I am capable of cognition,experiences, transformation of the surrounding world and I build certain relationships with this world and with the world of other personalities
+I am a living being. The species of the genus Humans from the family hominidae in the order primates. I have the gift of thinking and speech, I am a carrier of consciousness, I am capable of cognition,experiences, transformation of the surrounding world and I build certain relationships with this world and with the world of other personalities
 
 
 Gmail - tumin.dan@gmail.com
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
