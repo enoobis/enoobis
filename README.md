@@ -33,6 +33,7 @@ I am a living being. The species of the genus Humans from the family hominidae i
 
 
 Gmail - tumin.dan@gmail.com
+<br />
 Reddit - https://www.reddit.com/user/0coc
 <div align="center">
   <div style="display: flex;">
