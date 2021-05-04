@@ -36,9 +36,9 @@ Gmail - tumin.dan@gmail.com
 <br />
 Reddit - https://www.reddit.com/user/0coc
 <br />
-https://www.techonthenet.com/oracle/index.php
+PLSQL -https://www.techonthenet.com/oracle/index.php
 <br />
-DFR - https://devforum.roblox.com/u/liet0me_777/summary
+DFR - https://devforum.roblox.com/u/liet0me_777/summary 
 <br />
 9gag - https://9gag.com/u/tumindan
 <br />
