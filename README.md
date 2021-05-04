@@ -47,7 +47,7 @@ https://www.canva.com/
 https://lichess.org/@/Denoobis
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electro-non&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=electro-non&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electro-none&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=electro-none&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
 </div>
