@@ -38,15 +38,15 @@ Reddit - https://www.reddit.com/user/0coc
 <br />
 https://www.techonthenet.com/oracle/index.php
 <br />
-https://devforum.roblox.com/u/liet0me_777/summary
+DFR - https://devforum.roblox.com/u/liet0me_777/summary
 <br />
-https://9gag.com/u/tumindan
+9gag - https://9gag.com/u/tumindan
 <br />
-https://www.canva.com/
+Canva -https://www.canva.com/
 <br />
-https://lichess.org/@/Denoobis
+Chess - https://lichess.org/@/Denoobis
 <br />
-https://www.chess.com/member/denoobis
+Chess -https://www.chess.com/member/denoobis
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoobis&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
