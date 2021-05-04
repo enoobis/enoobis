@@ -58,6 +58,6 @@ P= 3,1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 592307816
 </p>
 <img  name="img" src="https://media4.giphy.com/media/3ELtfmA4Apkju/giphy.gif" > 
 <img src="https://cdn131.picsart.com/327606453013211.png?type=webp&to=min&r=640" width="220">
-<img name="img" src="https://user-images.githubusercontent.com/62465404/117008116-35472580-ad0c-11eb-9fde-bac1de4fa070.png" width="200"   >
+<img name="img" src="https://user-images.githubusercontent.com/62465404/117008116-35472580-ad0c-11eb-9fde-bac1de4fa070.png" width="100"   >
 
 
