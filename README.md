@@ -43,6 +43,8 @@ https://devforum.roblox.com/u/liet0me_777/summary
 https://9gag.com/u/tumindan
 <br />
 https://www.canva.com/
+<br />
+https://lichess.org/@/Denoobis
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electro-none&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
