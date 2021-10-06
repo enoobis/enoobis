@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.youtube.com/channel/UCOqTa0ko06PfgayD_5ZbWTw">
-  <img align="left" alt="T zer - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+  <img align="left" alt="enoobis - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 <a href="https://www.instagram.com/enoobis/?hl=ru">
   <img align="left" alt="enoobis - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/s00fler">
-  <img align="left" alt="s00fler - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="left" alt="enoobis - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.facebook.com/enoobis">
   <img align="left" alt="enoobis - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
@@ -37,17 +37,42 @@ Gmail - tumin.dan@gmail.com
 <br />
 Reddit - https://www.reddit.com/user/0coc
 <br />
+
+https://www.facebook.com/enoobis
+<br />
+https://twitter.com/enoobis
+<br />
+https://www.instagram.com/enoobis
+<br />
+https://www.fiverr.com/enoobis
+<br />
+https://www.pinterest.com/enoobis
+<br />
+https://vk.com/enoobis
+<br />
+https://stackoverflow.com/users/enoobis
+<br />
+https://www.twitch.tv/enoobis
+<br />
+https://9gag.com/u/denoobis
+<br />
+https://lidraughts.org/@/Denoobis
+<br />
+https://www.chess.com/member/denoobis
+<br />
+https://lichess.org/@/Denoobis
+<br />
+https://www.artstation.com/enoobis
+<br />
+https://sketchfab.com/enoobis
+<br />
+https://dribbble.com/Enoobis
+<br />
+https://replit.com/@Enoobis
 PLSQL -https://www.techonthenet.com/oracle/index.php
 <br />
 DFR - https://devforum.roblox.com/u/liet0me_777/summary 
 <br />
-9gag - https://9gag.com/u/tumindan
-<br />
-Canva -https://www.canva.com/
-<br />
-Chess - https://lichess.org/@/Denoobis
-<br />
-Chess -https://www.chess.com/member/denoobis
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoobis&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
