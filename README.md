@@ -65,9 +65,7 @@ https://dribbble.com/Enoobis
 <br />
 https://replit.com/@Enoobis
 <br />
-PLSQL -https://www.techonthenet.com/oracle/index.php
-<br />
-DFR - https://devforum.roblox.com/u/liet0me_777/summary 
+https://devforum.roblox.com/u/liet0me_777/summary 
 <br />
 <div align="center">
   <div style="display: flex;">
