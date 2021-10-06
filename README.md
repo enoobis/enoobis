@@ -33,11 +33,6 @@ Here are some ideas to get you started:
 I am a living being. The species of the genus Humans from the family hominidae in the order primates. I have the gift of thinking and speech, I am a carrier of consciousness, I am capable of cognition,experiences, transformation of the surrounding world and I build certain relationships with this world and with the world of other personalities
 
 
-Gmail - tumin.dan@gmail.com
-<br />
-Reddit - https://www.reddit.com/user/0coc
-<br />
-
 https://www.facebook.com/enoobis
 <br />
 https://twitter.com/enoobis
