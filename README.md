@@ -49,14 +49,6 @@ https://stackoverflow.com/users/enoobis
 <br />
 https://www.twitch.tv/enoobis
 <br />
-https://9gag.com/u/denoobis
-<br />
-https://lidraughts.org/@/Denoobis
-<br />
-https://www.chess.com/member/denoobis
-<br />
-https://lichess.org/@/Denoobis
-<br />
 https://www.artstation.com/enoobis
 <br />
 https://sketchfab.com/enoobis
@@ -64,8 +56,6 @@ https://sketchfab.com/enoobis
 https://dribbble.com/Enoobis
 <br />
 https://replit.com/@Enoobis
-<br />
-https://devforum.roblox.com/u/liet0me_777/summary 
 <br />
 <div align="center">
   <div style="display: flex;">
