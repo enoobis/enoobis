@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <img   align="right" src="https://media.discordapp.net/attachments/909731897872105545/958618365767856179/unknown.png" width="550" >  
 <img  name="img" src="https://cdn.discordapp.com/attachments/909731897872105545/958592925707677716/unknown.png" width="260" >  
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img width="10" align="right" alt="report" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png"/>
+  <img width="30" align="right" alt="report" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png"/>
 </a>
-<h3 align="right">report:</h3>
+<img   align="right" src="https://cdn.discordapp.com/attachments/909731897872105545/958628024159453224/unknown.png" width="30" >  
 <br>
 
   _  _                                                  _                                                                                                  
