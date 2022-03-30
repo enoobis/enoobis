@@ -78,11 +78,10 @@ OTHER                                        ░░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/languages.svg)
 
 
-<h3 align="center"> Cheatsheets </h3>
      
 | URL      |
 | ----------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         || [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
 | [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
@@ -93,7 +92,7 @@ OTHER                                        ░░░░░░░░░░░�
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
 | [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
-
+<img   align="right" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="550" >  
 
 <!-- links -->
 
