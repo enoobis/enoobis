@@ -139,7 +139,8 @@ OTHER                                        ░░░░░░░░░░░�
 
 <!-- links -->
 
-![](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![](https://profile-counter.glitch.me/Enoobis/count.svg)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
