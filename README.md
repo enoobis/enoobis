@@ -84,7 +84,7 @@ OTHER                                        ░░░░░░░░░░░�
 
 
   
-<p align="center">
+<p align="right">
         <img src="https://github-readme-stats.vercel.app/api?username=Enoobis&show_icons=true&title_color=fff&icon_color=474747&text_color=ffffff&bg_color=151515" alt="Github Stats" />
 </p>
 
