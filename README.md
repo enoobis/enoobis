@@ -21,9 +21,7 @@ Here are some ideas to get you started:
   <img align="right" alt="report" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png"/>
 </a>
 <h4 align="right">report:</h4>
-
 <br>
-
 
   _  _                                                  _                                                                                                  
                                                                                                                          
