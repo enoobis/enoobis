@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img width="30" align="right" alt="report" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png"/>
 </a>
-<img   align="right" src="https://cdn.discordapp.com/attachments/909731897872105545/958628024159453224/unknown.png" width="80" >  
+<img   align="right" src="https://cdn.discordapp.com/attachments/909731897872105545/958628024159453224/unknown.png" width="100" >  
 <br>
 
   _  _                                                  _                                                                                                  
