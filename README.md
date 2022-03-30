@@ -75,8 +75,8 @@ OTHER                                        ░░░░░░░░░░░�
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
-![](https://raw.githubusercontent.com/enoobis/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/enoobis/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/languages.svg)
 
 
 
