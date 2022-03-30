@@ -62,7 +62,7 @@
 <a href="https://www.facebook.com/enoobis">
   <img align="left" alt="enoobis - Facebook" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958631302112890890/5282541_fb_social_media_facebook_facebook_logo_social_network_icon.png"/>
 </a>
-<a align="right">                                                               fun fact if you use light theme you don't see links
+<a align="right">⠀                               ⠀                                fun fact if you use light theme you don't see links
 </a>
 <br />
 <br />
