@@ -75,10 +75,6 @@ P= 3,1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 592307816
 <img name="img" src="https://user-images.githubusercontent.com/62465404/117016308-63c8fe80-ad14-11eb-8436-d7a05891f1af.gif" width="240">
 <img src="https://user-images.githubusercontent.com/62465404/117102591-738b2600-ad9a-11eb-80cb-7270f47f72c7.png" width="270" >
 <br>
-[![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
   ##### I am currently aiming to reach ELO 1500 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
 
   ```
