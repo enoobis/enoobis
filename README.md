@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img align="left" alt="enoobis - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.facebook.com/enoobis">
-  <img align="left" alt="enoobis - Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-512.png"/>
+  <img align="left" alt="enoobis - Facebook" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958631302112890890/5282541_fb_social_media_facebook_facebook_logo_social_network_icon.png"/>
 </a>
 <br />
 <br />
