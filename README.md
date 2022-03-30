@@ -113,10 +113,7 @@ OTHER                                        ░░░░░░░░░░░�
 
 
 <img align="right" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="100">
-
-
-
-  
+![](https://profile-counter.glitch.me/Enoobis/count.svg)
 <p align="right">
         <img src="https://github-readme-stats.vercel.app/api?username=Enoobis&show_icons=true&title_color=fff&icon_color=474747&text_color=ffffff&bg_color=151515" alt="Github Stats" />
 </p>
@@ -138,8 +135,6 @@ OTHER                                        ░░░░░░░░░░░�
 
 
 <!-- links -->
-
-![](https://profile-counter.glitch.me/Enoobis/count.svg)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
