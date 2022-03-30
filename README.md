@@ -75,34 +75,6 @@ P= 3,1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 592307816
 <img name="img" src="https://user-images.githubusercontent.com/62465404/117016308-63c8fe80-ad14-11eb-8436-d7a05891f1af.gif" width="240">
 <img src="https://user-images.githubusercontent.com/62465404/117102591-738b2600-ad9a-11eb-80cb-7270f47f72c7.png" width="270" >
 <br>
-  ##### I am currently aiming to reach ELO 1500 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
-
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1495.00  ┤                    ╭╮
- 1488.50  ┤                 ╭╮ ││╭╮                                               ╭╮
- 1482.00  ┤                 ││╭╯╰╯╰╮                                             ╭╯╰╮
- 1475.50  ┤    ╭╮          ╭╯╰╯    ╰╮╭╮╭╮                                        │  │       ╭╮╭╮            ╭╮
- 1469.00  ┤   ╭╯╰╮        ╭╯        ╰╯╰╯│                                       ╭╯  ╰╮╭─╮╭╮╭╯╰╯╰╮          ╭╯╰
- 1462.50  ┤   │  │╭╮╭╮╭─╮╭╯             ╰╮                                   ╭╮╭╯    ╰╯ ╰╯╰╯    ╰╮        ╭╯
- 1456.00  ┤  ╭╯  ╰╯╰╯╰╯ ╰╯               ╰╮                                ╭╮│││                 ╰╮ ╭─╮╭╮╭╯
- 1449.50  ┤ ╭╯                            ╰╮    ╭╮                        ╭╯╰╯╰╯                  ╰╮│ ╰╯╰╯
- 1443.00  ┤╭╯                              │  ╭╮││ ╭╮╭─╮                  │                        ╰╯
- 1436.50  ┼╯                               ╰╮╭╯╰╯╰╮│╰╯ ╰╮╭╮              ╭╯
- 1430.00  ┤                                 ╰╯    ╰╯    │││             ╭╯
- 1423.50  ┤                                             ╰╯╰╮           ╭╯
- 1417.00  ┤                                                ╰╮ ╭╮      ╭╯
- 1410.50  ┤                                                 ╰─╯│  ╭╮  │
- 1404.00  ┤                                                    ╰╮╭╯╰╮╭╯
- 1397.50  ┤                                                     ╰╯  ╰╯
- 1391.00  ┤
-
-Chart last updated - Wed Mar 30 10:32:55 IST 2022  
-  ```
-
-
 <!--START_SECTION:waka-->
 
 
