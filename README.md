@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img  name="img" src="https://cdn.discordapp.com/attachments/909731897872105545/958592925707677716/unknown.png" width="260" >  
 
   _  _                                                  _                                                                                                  
- | \| |_____ _____ _ _   __ _ ___ _ _  _ _  __ _   __ _(_)_ _____   _  _ ___ _  _   _  _ _ __                                                                                                                           
+ | \| |_____ ___                                                                                                                          
        
 
 <a href="https://www.youtube.com/channel/UCOqTa0ko06PfgayD_5ZbWTw">
