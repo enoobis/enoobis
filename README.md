@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```html
-  <body bgcolor=”#800000">
+                                            
+ #####  ###### #####   ####  #####  ##### 
+ #    # #      #    # #    # #    #   #   
+ #    # #####  #    # #    # #    #   #   
+ #####  #      #####  #    # #####    #   
+ #   #  #      #      #    # #   #    #   
+ #    # ###### #       ####  #    #   #   
+                                          
 ```
 
 <img   align="right" src="https://media.discordapp.net/attachments/909731897872105545/958731842947801128/unknown.png" width="550" >  
