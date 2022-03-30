@@ -82,7 +82,7 @@ OTHER                                        ░░░░░░░░░░░�
      
 | URL      |
 | ----------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         || [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
 | [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
