@@ -92,7 +92,7 @@ OTHER                                        ░░░░░░░░░░░�
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
 | [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
-<img   align="right" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="550" >  
+<img   align="right" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="100" >  
 
 <!-- links -->
 
