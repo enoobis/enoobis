@@ -1,6 +1,8 @@
 
-### NEVER GONNA GIVE YOU UP
-
+<!--### NEVER GONNA GIVE YOU UP !-->
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/909731897872105545/958787482453958677/cooltext407705925614839.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
 <!--
 **electro-none/electro-none** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
