@@ -78,7 +78,21 @@ OTHER                                        ░░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/languages.svg)
 
 
-
+<h3 align="center"> Cheatsheets </h3>
+     
+| URL      |
+| ----------- |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
+| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
+| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
+| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
+| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)         |
+| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)     |
+| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)           |
+| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets) |
+| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
+| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
+| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
 
 
 <!-- links -->
