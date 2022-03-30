@@ -74,7 +74,7 @@ OTHER                                        ░░░░░░░░░░░�
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Enoobis&bg_color=0,e96443,904e95&title_color=fff&text_color=0)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Enoobis&bg_color=0,0,0&title_color=fff&text_color=0)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
 
