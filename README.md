@@ -1,5 +1,5 @@
 
-### Never gonna give you up
+### NEVER GONNA GIVE YOU UP
 
 <!--
 **electro-none/electro-none** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
