@@ -194,6 +194,9 @@ OTHER                                        ░░░░░░░░░░░�
 
 <!-- links -->
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/Enoobis/master/images/marquee.svg" />
+<br />
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
