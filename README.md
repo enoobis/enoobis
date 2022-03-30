@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-I am a living being. The species of the genus Humans from the family hominidae in the order primates. I have the gift of thinking and speech, I am a carrier of consciousness, I am capable of cognition,experiences, transformation of the surrounding world and I build certain relationships with this world and with the world of other personalities
+ɪ ᴀᴍ ᴀ ʟɪᴠɪɴɢ ʙᴇɪɴɢ. ᴛʜᴇ sᴘᴇᴄɪᴇs ᴏꜰ ᴛʜᴇ ɢᴇɴᴜs ʜᴜᴍᴀɴs ꜰʀᴏᴍ ᴛʜᴇ ꜰᴀᴍɪʟʏ ʜᴏᴍɪɴɪᴅᴀᴇ ɪɴ ᴛʜᴇ ᴏʀᴅᴇʀ ᴘʀɪᴍᴀᴛᴇs. ɪ ʜᴀᴠᴇ ᴛʜᴇ ɢɪꜰᴛ ᴏꜰ ᴛʜɪɴᴋɪɴɢ ᴀɴᴅ sᴘᴇᴇᴄʜ, ɪ ᴀᴍ ᴀ ᴄᴀʀʀɪᴇʀ ᴏꜰ ᴄᴏɴsᴄɪᴏᴜsɴᴇss, ɪ ᴀᴍ ᴄᴀᴘᴀʙʟᴇ ᴏꜰ ᴄᴏɢɴɪᴛɪᴏɴ,ᴇxᴘᴇʀɪᴇɴᴄᴇs, ᴛʀᴀɴsꜰᴏʀᴍᴀᴛɪᴏɴ ᴏꜰ ᴛʜᴇ sᴜʀʀᴏᴜɴᴅɪɴɢ ᴡᴏʀʟᴅ ᴀɴᴅ ɪ ʙᴜɪʟᴅ ᴄᴇʀᴛᴀɪɴ ʀᴇʟᴀᴛɪᴏɴsʜɪᴘs ᴡɪᴛʜ ᴛʜɪs ᴡᴏʀʟᴅ ᴀɴᴅ ᴡɪᴛʜ ᴛʜᴇ ᴡᴏʀʟᴅ ᴏꜰ ᴏᴛʜᴇʀ ᴘᴇʀsᴏɴᴀʟɪᴛɪᴇs
 
 ```text
 ⌚︎ Time Zone: Asia/Kyrgyzstan
