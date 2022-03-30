@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img  name="img" src="https://cdn.discordapp.com/attachments/909731897872105545/958592925707677716/unknown.png" width="260" >  
-<img  name="img" src="https://media.discordapp.net/attachments/909731897872105545/958616851963838494/unknown.png" width="740" >  
+<img  name="img" src="https://media.discordapp.net/attachments/909731897872105545/958618365767856179/unknown.png" width="740" >  
 
   _  _                                                  _                                                                                                  
                                                                                                                          
-       
+ 
+                                                             
 
 <a href="https://www.youtube.com/channel/UCOqTa0ko06PfgayD_5ZbWTw">
   <img align="left" alt="enoobis - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
