@@ -29,13 +29,13 @@ Here are some ideas to get you started:
                                                              
 
 <a href="https://www.youtube.com/channel/UCOqTa0ko06PfgayD_5ZbWTw">
-  <img align="left" alt="enoobis - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+  <img align="left" alt="enoobis - Youtube" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958632322675130409/5282548_play_player_video_youtube_youtuble_logo_icon.png"/>
 </a>
 <a href="https://www.instagram.com/enoobis/?hl=ru">
-  <img align="left" alt="enoobis - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img align="left" alt="enoobis - Instagram" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958632112687296532/5282544_camera_instagram_social_media_social_network_instagram_logo_icon.png"/>
 </a>
 <a href="https://twitter.com/s00fler">
-  <img align="left" alt="enoobis - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="left" alt="enoobis - Twitter" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958631816519102494/5282551_tweet_twitter_twitter_logo_icon.png"/>
 </a>
 <a href="https://www.facebook.com/enoobis">
   <img align="left" alt="enoobis - Facebook" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958631302112890890/5282541_fb_social_media_facebook_facebook_logo_social_network_icon.png"/>
