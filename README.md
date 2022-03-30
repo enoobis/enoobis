@@ -117,6 +117,12 @@ OTHER                                        ░░░░░░░░░░░�
         <img src="https://github-readme-stats.vercel.app/api?username=Enoobis&show_icons=true&title_color=fff&icon_color=474747&text_color=ffffff&bg_color=151515" alt="Github Stats" />
 </p>
 
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 | URL      |
 | ----------- |
