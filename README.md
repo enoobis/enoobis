@@ -157,7 +157,7 @@ OTHER                                        ░░░░░░░░░░░�
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" alt="Music" src="https://i.pinimg.com/originals/88/69/d9/8869d995462174b048aedd0b6ef512b2.gif"> 
+<img height="100" alt="Music" src="https://i.gifer.com/origin/e1/e1ecbb50436a0022af19330089561df5.gif"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
