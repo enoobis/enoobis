@@ -76,6 +76,11 @@ P= 3,1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 592307816
 <img src="https://user-images.githubusercontent.com/62465404/117102591-738b2600-ad9a-11eb-80cb-7270f47f72c7.png" width="270" >
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C294%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1434-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 ```text
 ⌚︎ Time Zone: Asia/Kyrgyzstan
 
