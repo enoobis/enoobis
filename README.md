@@ -182,8 +182,8 @@ OTHER                                        ░░░░░░░░░░░�
 <p align="center">
   
 
-| ------- | ------- |
 |<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Marx_Engels_Lenin_Stalin_Mao.svg" /> |<img src="https://steamuserimages-a.akamaihd.net/ugc/961979263533588421/BFED673B0D7F94DB355E70E1F1F6E441BA806E01/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />|
+| ------- | ------- |
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
 | [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
