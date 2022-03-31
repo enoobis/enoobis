@@ -179,6 +179,7 @@ OTHER                                        ░░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </p>
 
+<p align="center">
 | URL      |
 | ----------- |
 | [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
@@ -193,6 +194,7 @@ OTHER                                        ░░░░░░░░░░░�
 | [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
 
+</p>
 
 <!-- links -->
 
