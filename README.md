@@ -114,9 +114,9 @@ OTHER                                        ░░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/languages.svg)
 
-<p lign="center" >
 ![](https://profile-counter.glitch.me/Enoobis/count.svg)
-</p>
+
+
 <img align="center" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="100">
 
 
