@@ -10,9 +10,9 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <td align="left">
-|  OK |
+|  OK |AND|
 | ------- |
-|OK|
+|OK|WAT|
   
 ```html
 /(///(//////////////////(#&&&&&&&##&&&@%&&&&%@&@&%@%%///*/*////*////*//*/*///*/* We're no strangers to love
