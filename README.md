@@ -170,6 +170,21 @@ OTHER                                        ░░░░░░░░░░░�
 </table>
 </div>
 
+<p align="center">
+  
+
+|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Marx_Engels_Lenin_Stalin_Mao.svg" /> |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg" />|
+| ------- | ------- |
+| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |Do not support|
+| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |<img src="https://cdn.discordapp.com/attachments/909731897872105545/958954626873425960/ok.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954627049598996/ok2.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954627456442389/ok3.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954626617589810/ok4.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716648312832/ok5.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716820295700/ok6.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954717034192927/ok7.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716413460490/ok8.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954832817967154/ok9.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954833002520596/ok10.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954833208016936/ok11.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866514997269/ok12.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866733117470/ok13.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866955407401/ok14.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954867169329182/ok15.png" />|
+
+</p>
+
+<!-- links -->
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 <p align="right">
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -178,26 +193,3 @@ OTHER                                        ░░░░░░░░░░░�
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </p>
-
-<p align="center">
-  
-
-|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Marx_Engels_Lenin_Stalin_Mao.svg" /> |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg" />|
-| ------- | ------- |
-| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |Do not support|
-| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |<img src="https://cdn.discordapp.com/attachments/909731897872105545/958954626873425960/ok.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954627049598996/ok2.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954627456442389/ok3.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954626617589810/ok4.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716648312832/ok5.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716820295700/ok6.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954717034192927/ok7.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716413460490/ok8.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954832817967154/ok9.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954833002520596/ok10.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954833208016936/ok11.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866514997269/ok12.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866733117470/ok13.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866955407401/ok14.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954867169329182/ok15.png" />|
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
-| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)         |
-| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)     |
-| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)           |
-| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets) |
-| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
-| [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)           |
-
-</p>
-
-<!-- links -->
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
