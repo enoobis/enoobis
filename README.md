@@ -8,8 +8,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
-<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>
+<td align="left">
+```html
 /(///(//////////////////(#&&&&&&&##&&&@%&&&&%@&@&%@%%///*/*////*////*//*/*///*/* We're no strangers to love
 /////////////////////////&&&%%(((#&/,/*((/###%@@&@@@@@@@@%//*//*/*//////*//*/**/ You know the rules and so do I
 //(/////////////////////#//**,,*(//(%&#@#(/#*/%/*%%#&&&&%%&@&#//***///*///*//*/* A full commitment's what I'm thinking of
@@ -42,8 +42,9 @@
 ...............,@&%,,,***/(&@@@@@@@@@@@@@@@@@@@@@@@@@@(*******************/*/*// |   / _||  _/ (_) |   / | |         ↓  ↓ 
 ..............#&@@@(,,*///%&@@@@@@@@@@@@@@@@@@@@@@@@@@@@******************/**//* |_|_\___|_|  \___/|_|_\ |_|         ↓  ↓ 
 .............@@@@@@@@#*//#&&&@@@@@@@@@@@@@@@@@@@@@@&&%%&@*************/*****//**                                     
-</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
-  
+```
+</td>
+
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img width="30" align="right" alt="report" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png"/>
 </a>
