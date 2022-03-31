@@ -114,8 +114,6 @@ OTHER                                        ░░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/languages.svg)
 
-![](https://profile-counter.glitch.me/Enoobis/count.svg)
-
 
 <img align="center" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="100">
 
@@ -185,6 +183,8 @@ OTHER                                        ░░░░░░░░░░░�
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+
+![](https://profile-counter.glitch.me/Enoobis/count.svg)
 
 <p align="right">
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
