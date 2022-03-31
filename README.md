@@ -184,7 +184,6 @@ OTHER                                        ░░░░░░░░░░░�
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![](https://profile-counter.glitch.me/Enoobis/count.svg)
 
 <p align="right">
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
@@ -194,3 +193,5 @@ OTHER                                        ░░░░░░░░░░░�
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </p>
+
+![](https://profile-counter.glitch.me/Enoobis/count.svg)
