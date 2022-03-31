@@ -134,7 +134,7 @@ OTHER                                        ░░░░░░░░░░░�
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<a href="https://www.enoobis.tk/">
 <strong>Sign my guest book</strong>
 <br />
 
@@ -150,7 +150,7 @@ OTHER                                        ░░░░░░░░░░░�
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.enoobis.tk/">
 <strong>Listen to cool music</strong>
 <br />
 
