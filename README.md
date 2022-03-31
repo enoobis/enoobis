@@ -14,7 +14,7 @@
   
 | | |
 | ------- | ------- |
-| [毛泽东](https://zh.wikipedia.org/zh/%E6%AF%9B%E6%B3%BD%E4%B8%9C)     |Do not support|
+|    |    |
   
 ```html
 /(///(//////////////////(#&&&&&&&##&&&@%&&&&%@&@&%@%%///*/*////*////*//*/*///*/* We're no strangers to love
