@@ -183,7 +183,7 @@ OTHER                                        ░░░░░░░░░░░�
   
 | URL      |some thing  |
 | ------- | ------- |
-|<img src="https://steamuserimages-a.akamaihd.net/ugc/439488240801501050/05E28E07F136266CD687DFC1A52CC3D5914797DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" /> |<img src="https://steamuserimages-a.akamaihd.net/ugc/961979263533588421/BFED673B0D7F94DB355E70E1F1F6E441BA806E01/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />|
+|<img src="https://pbs.twimg.com/profile_images/705563993/stalin_400x400.jpg" /> |<img src="https://steamuserimages-a.akamaihd.net/ugc/961979263533588421/BFED673B0D7F94DB355E70E1F1F6E441BA806E01/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />|
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
 | [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
