@@ -12,7 +12,7 @@
 <td align="left">
 
   
-|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Marx_Engels_Lenin_Stalin_Mao.svg" /> |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg" />|
+| | |
 | ------- | ------- |
 | [毛泽东](https://zh.wikipedia.org/zh/%E6%AF%9B%E6%B3%BD%E4%B8%9C)     |Do not support|
   
