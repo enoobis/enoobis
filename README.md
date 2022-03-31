@@ -183,7 +183,7 @@ OTHER                                        ░░░░░░░░░░░�
   
 | URL      |some thing  |
 | ------- | ------- |
-| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |<img src="https://steamuserimages-a.akamaihd.net/ugc/961979263533588421/BFED673B0D7F94DB355E70E1F1F6E441BA806E01/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />|
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
 | [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
