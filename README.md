@@ -189,10 +189,7 @@ OTHER                                        ░░░░░░░░░░░�
 
 <p align="right"> 
   
-  
 ![](https://profile-counter.glitch.me/Enoobis/count.svg)
-  
-
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
