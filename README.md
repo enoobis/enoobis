@@ -49,7 +49,7 @@
 </td>
 
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img width="30" align="right" alt="report" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Perspective-Button-Stop-icon.png"/>
+  <img width="30" align="right" alt="report" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/959317548061556796/Warning-1.png"/>
 </a>
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
