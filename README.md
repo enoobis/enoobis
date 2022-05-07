@@ -171,18 +171,3 @@ OTHER                                        ░░░░░░░░░░░�
 
 
 
-<!-- links -->
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<p align="right"> 
-
-<a href="https://buymeacoffee.com/enoobis" target="_blank"><img src="https://cdn.discordapp.com/attachments/909731897872105545/959312488900472913/cooltext407823361288100.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-![](https://profile-counter.glitch.me/Enoobis/count.svg)
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" /> 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-</p>
-
