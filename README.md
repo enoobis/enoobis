@@ -169,15 +169,7 @@ OTHER                                        ░░░░░░░░░░░�
 </div>
 
 
-<p align="center">
-  
 
-|<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Marx_Engels_Lenin_Stalin_Mao.svg" /> |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_Soviet_Union.svg" />|
-| ------- | ------- |
-| [毛泽东](https://zh.wikipedia.org/zh/%E6%AF%9B%E6%B3%BD%E4%B8%9C)     |Do not support|
-|<img align="center" src="https://media.discordapp.net/attachments/753104585954033766/958581748202098688/Totally_not_a_Rickroll_QR_code.png" width="100">      |<img src="https://cdn.discordapp.com/attachments/909731897872105545/958954626873425960/ok.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954627049598996/ok2.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954627456442389/ok3.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954626617589810/ok4.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716648312832/ok5.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716820295700/ok6.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954717034192927/ok7.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954716413460490/ok8.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954832817967154/ok9.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954833002520596/ok10.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954833208016936/ok11.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866514997269/ok12.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866733117470/ok13.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954866955407401/ok14.png" /><img src="https://cdn.discordapp.com/attachments/909731897872105545/958954867169329182/ok15.png" />|
-
-</p>
 
 <!-- links -->
 
