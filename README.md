@@ -66,7 +66,7 @@
 <a href="https://www.instagram.com/enoobis/?hl=ru">
   <img align="left" alt="enoobis - Instagram" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958632112687296532/5282544_camera_instagram_social_media_social_network_instagram_logo_icon.png"/>
 </a>
-<a href="https://twitter.com/s00fler">
+<a href="https://twitter.com/enoobis">
   <img align="left" alt="enoobis - Twitter" width="22px" src="https://cdn.discordapp.com/attachments/909731897872105545/958631816519102494/5282551_tweet_twitter_twitter_logo_icon.png"/>
 </a>
 <a href="https://www.facebook.com/enoobis">
