@@ -74,9 +74,7 @@
 </a>
 
 
-```html
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀*-fun fact if you use light theme you don't see links*
-```
+
 
 <br />
 <h2>ᴀʙᴏᴜᴛ ᴍᴇ</h2>
