@@ -4,6 +4,8 @@
 ![](https://profile-counter.glitch.me/Enoobis/count.svg)
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/909731897872105545/958787482453958677/cooltext407705925614839.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />    
 </div>
   
   </div>
