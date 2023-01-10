@@ -4,12 +4,6 @@
 | [project-2](https://github.com/username/project-2) | Another sample project showcasing my skills in language Y | Language Y | 
 | [project-3](https://github.com/username/project-3) | A collaborative project with a team of developers | Multiple Languages | 
 
-| Year | Contributions | 
-|------|---------------| 
-| 2018 | 100 | 
-| 2019 | 200 | 
-| 2020 | 300 | 
-
 | Skill | Proficiency | 
 |-------|-------------| 
 | Language X | 
@@ -28,6 +22,12 @@
 | University 1 | Bachelor's | Computer Science | 
 | University 2 | Master's  | Artificial Intelligence | 
 
+| Year | Contributions | 
+|------|---------------| 
+| 2018 | 100 | 
+| 2019 | 200 | 
+| 2020 | 300 | 
+
 | Year | Award                | 
 |------|----------------------| 
 | 2018 | Best Developer of the Year | 
@@ -39,8 +39,6 @@
 | [My first video](https://youtube.com/watch?v=123) | A sample video showcasing my skills in language X | 1000 | 
 | [My second video](https://youtube.com/watch?v=456) | Another sample video showcasing my skills in language Y | 2000 | 
 | [My third video](https://youtube.com/watch?v=789) | A tutorial on how to use my project | 3000 |
-
-
 
 ### PROJECTS
  
