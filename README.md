@@ -21,8 +21,6 @@
 [openai-to-sqlite 0.1a0](https://github.com/simonw/openai-to-sqlite/releases/tag/0.1a0) 
 [datasette-gunicorn 0.1.1](https://github.com/simonw/datasette-gunicorn/releases/tag/0.1.1) 
 [datasette-ripgrep 0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) 
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### On my blog
@@ -33,8 +31,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 [Datasette 1.0a2: Upserts and finely grained permissions](http://simonwillison.net/2022/Dec/15/datasette-1a2/) 
 [Over-engineering Secret Santa with Python cryptography and Datasette](http://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/) 
 [Weeknotes: datasette-ephemeral-tables, datasette-export](http://simonwillison.net/2022/Dec/5/weeknotes/) 
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
 
 ### TIL
@@ -44,8 +40,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Breakfast tacos with eggs, vegetarian sausages and avocado sauce](https://til.simonwillison.net/cooking/breakfast-tacos) 
 [Querying the GitHub archive with the ClickHouse playground](https://til.simonwillison.net/clickhouse/github-explorer) 
 [Start, test, then stop a localhost web server in a Bash script](https://til.simonwillison.net/bash/start-test-then-stop-server) 
-<!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 </div>
 
