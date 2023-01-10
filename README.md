@@ -7,7 +7,7 @@
 
 <td align="left">
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="200%">
  
 ### PROJECTS
  
@@ -22,7 +22,7 @@
 [pass-gen-python](https://github.com/enoobis/password-generator-python)</br>
 
 
-</td><td valign="top" width="70%">
+</td><td valign="top" width="200%">
  
 ### YOUTUBE
  
