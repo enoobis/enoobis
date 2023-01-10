@@ -1,6 +1,10 @@
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/909731897872105545/958787482453958677/cooltext407705925614839.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />    
+ <div align="center">
+  
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+![](https://profile-counter.glitch.me/Enoobis/count.svg)
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  
+</div>
   
   </div>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -65,13 +69,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
  
-<div align="center">
-  
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-![](https://profile-counter.glitch.me/Enoobis/count.svg)
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  
-</div>
   
 ```html
 /(///(//////////////////(#&&&&&&&##&&&@%&&&&%@&@&%@%%///*/*////*////*//*/*///*/* We're no strangers to love
