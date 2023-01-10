@@ -8,7 +8,9 @@
 <td align="left">
 
 <table><tr><td valign="top" width="50%">
+ 
 ### PROJECTS
+ 
 <!-- recent_releases starts -->
 [todo-list-python](https://github.com/enoobis/todo-list-python)</br>
 [mad-libs-python](https://github.com/enoobis/mad-libs-python)</br>
@@ -21,12 +23,16 @@
 
 
 </td><td valign="top" width="40%">
+ 
 ### BLOG
+ 
 <!-- blog starts -->
 www.enoobis.ga
  
 </td><td valign="top" width="10%">
+ 
 ### YOUTUBE
+ 
 <!-- tils starts -->
 [python](https://www.youtube.com/playlist?list=PLql3uvAHMl-N75yWwlRhLGRHym75HpMkl)</br>
 [python-practice](https://www.youtube.com/playlist?list=PLql3uvAHMl-OdVcnNBRP-75gIkjVIPXHz) 
