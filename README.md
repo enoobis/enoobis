@@ -39,8 +39,7 @@
 
 ### YOUTUBE
 <!-- tils starts -->
-[python](https://www.youtube.com/playlist?list=PLql3uvAHMl-N75yWwlRhLGRHym75HpMkl)
- 
+[python](https://www.youtube.com/playlist?list=PLql3uvAHMl-N75yWwlRhLGRHym75HpMkl)</br>
 [python-practice](https://www.youtube.com/playlist?list=PLql3uvAHMl-OdVcnNBRP-75gIkjVIPXHz) 
  
 </td></tr></table>
