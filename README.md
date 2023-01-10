@@ -11,7 +11,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### PROJECTS
 <!-- recent_releases starts -->
 [datasette-auth-passwords 1.1](https://github.com/simonw/datasette-auth-passwords/releases/tag/1.1) 
 [datasette 0.64](https://github.com/simonw/datasette/releases/tag/0.64) 
@@ -23,7 +23,7 @@
 [datasette-ripgrep 0.8](https://github.com/simonw/datasette-ripgrep/releases/tag/0.8) 
 </td><td valign="top" width="34%">
 
-### On my blog
+### BLOG
 <!-- blog starts -->
 [Datasette 0.64, with a warning about SpatiaLite](http://simonwillison.net/2023/Jan/9/datasette-064/) 
 [2022 in projects and blogging](http://simonwillison.net/2022/Dec/31/2022-in-projects/) 
@@ -33,7 +33,7 @@
 [Weeknotes: datasette-ephemeral-tables, datasette-export](http://simonwillison.net/2022/Dec/5/weeknotes/) 
 </td><td valign="top" width="33%">
 
-### TIL
+### YOUTUBE
 <!-- tils starts -->
 [Loading SQLite extensions in Python on macOS](https://til.simonwillison.net/sqlite/sqlite-extensions-python-macos) 
 [Geopoly in SQLite](https://til.simonwillison.net/sqlite/geopoly)
