@@ -22,7 +22,7 @@
 [snake-game-python](https://github.com/enoobis/snake-game-python)</br> 
 [password-generator-python](https://github.com/enoobis/password-generator-python)</br>
  
-</td><td valign="top" width="34%">
+</td><td valign="top" width="50%">
 
 ### BLOG
 <!-- blog starts -->
@@ -35,7 +35,7 @@
 [python](https://www.youtube.com/playlist?list=PLql3uvAHMl-N75yWwlRhLGRHym75HpMkl)</br>
 [python-practice](https://www.youtube.com/playlist?list=PLql3uvAHMl-OdVcnNBRP-75gIkjVIPXHz) 
  
-<table><tr><td valign="top" width="33%">
+<table><tr>
 </div>
 
 
