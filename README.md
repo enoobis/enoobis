@@ -1,6 +1,4 @@
  <div align="center">
-  
-  
   </div>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -10,7 +8,6 @@
 <td align="left">
 
 <table><tr><td valign="top" width="50%">
-
 ### PROJECTS
 <!-- recent_releases starts -->
 [todo-list-python](https://github.com/enoobis/todo-list-python)</br>
@@ -21,15 +18,14 @@
 [pong-game-python](https://github.com/enoobis/pong-game-python)</br>
 [snake-game-python](https://github.com/enoobis/snake-game-python)</br> 
 [password-generator-python](https://github.com/enoobis/password-generator-python)</br>
- 
-</td><td valign="top" width="40%">
 
+
+</td><td valign="top" width="40%">
 ### BLOG
 <!-- blog starts -->
 www.enoobis.ga
  
-</td><td valign="top" width="40%">
-
+</td><td valign="top" width="10%">
 ### YOUTUBE
 <!-- tils starts -->
 [python](https://www.youtube.com/playlist?list=PLql3uvAHMl-N75yWwlRhLGRHym75HpMkl)</br>
