@@ -1,5 +1,5 @@
 <pre>
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ MAIN ├─────────▰▰▰
 │
 ├─▣ Security Researcher
 ├─▣ Content Creator
