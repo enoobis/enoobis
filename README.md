@@ -19,20 +19,16 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ [todo-list-python](https://github.com/enoobis/todo-list-python)</br>
-├─◈ [mad-libs-python](https://github.com/enoobis/mad-libs-python)</br>
-├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
-├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
-├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+├─◈ <a href="https://github.com/enoobis/todo-list-python">todo-list-python</a>
+├─◈ <a href="https://github.com/enoobis/mad-libs-python">mad-libs-python</a>
+├─◈ <a href="https://github.com/enoobis/calculator-python">calculator-python</a>
+├─◈ <a href="https://github.com/enoobis/blender-stickman-python">blender-python</a>
+├─◈ <a href="https://github.com/enoobis/nft-genertor">nft-genertor-python</a>
+├─◈ <a href="https://github.com/enoobis/pong-game-python">pong-game-python</a>
+├─◈ <a href="https://github.com/enoobis/snake-game-python">snake-game-python</a>
+├─◈ <a href="https://github.com/enoobis/password-generator-python">pass-gen-python</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
-[todo-list-python](https://github.com/enoobis/todo-list-python)</br>
-[mad-libs-python](https://github.com/enoobis/mad-libs-python)</br>
-[calculator-python](https://github.com/enoobis/calculator-python)</br>
-[blender-python](https://github.com/enoobis/blender-stickman-python)</br> 
-[nft-genertor-python](https://github.com/enoobis/nft-genertor)</br> 
-[pong-game-python](https://github.com/enoobis/pong-game-python)</br>
-[snake-game-python](https://github.com/enoobis/snake-game-python)</br> 
+
 [pass-gen-python](https://github.com/enoobis/password-generator-python)</br>
