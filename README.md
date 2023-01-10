@@ -64,8 +64,6 @@ More on [simonwillison.net](https://simonwillison.net/)
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
-
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a> 
   
   
   
@@ -174,16 +172,5 @@ OTHER                                        ░░░░░░░░░░░�
 ![](https://raw.githubusercontent.com/Enoobis/github-stats-transparent/output/generated/languages.svg)
 
 
-
-
-<!-- links -->
-
-<p align="right"> 
-
-<a href="https://buymeacoffee.com/enoobis" target="_blank"><img src="https://cdn.discordapp.com/attachments/909731897872105545/959312488900472913/cooltext407823361288100.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-![](https://profile-counter.glitch.me/Enoobis/count.svg)
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-</p>
 
 
