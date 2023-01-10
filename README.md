@@ -24,7 +24,15 @@ Here's a quick overview of my GitHub profile, including information about my rep
 
 | Skill | Proficiency |
 |-------|-------------|
-| Language X | Advanced |
+| Language X | 
+
+| Sub-Skill | Proficiency |
+|-------|-------------|
+| syntax | Advanced |
+| Libraries | Intermediate |
+
+| Skill | Proficiency |
+|-------|-------------|
 | Language Y | Intermediate |
 | Language Z | Beginner |
 
@@ -35,23 +43,13 @@ Here's a quick overview of my GitHub profile, including information about my rep
 | University 1 | Bachelor's | Computer Science |
 | University 2 | Master's | Artificial Intelligence |
 
-## Awards and Recognition 
- 
- 
- 
- 
- 
- <div align="center">
-  </div>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+## Awards and Recognition
 
-<td align="left">
-
-<table><tr><td valign="top" width="200%">
- 
+| Year | Award |
+|------|-------|
+| 2018 | Best Developer of the Year |
+| 2019 | Most Innovative Project |
+| 2020 | Top Contributor to Open Source Community |
 ### PROJECTS
  
 <!-- recent_releases starts -->
