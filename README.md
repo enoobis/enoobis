@@ -35,7 +35,7 @@
 [python](https://www.youtube.com/playlist?list=PLql3uvAHMl-N75yWwlRhLGRHym75HpMkl)</br>
 [python-practice](https://www.youtube.com/playlist?list=PLql3uvAHMl-OdVcnNBRP-75gIkjVIPXHz) 
  
-</td></tr></table>
+<table><tr><td valign="top" width="33%">
 </div>
 
 
