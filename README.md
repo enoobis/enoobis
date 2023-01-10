@@ -3,15 +3,12 @@
   <img src="https://cdn.discordapp.com/attachments/909731897872105545/958787482453958677/cooltext407705925614839.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   </div>
-  
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 <td align="left">
-
- Currently working on [Datasette](https://datasette.io/) and associated projects. Read [my blog](https://simonwillison.net/) or <a href="https://fedi.simonwillison.net/@simon">follow `@simon@simonwillison.net` on Mastodon</a>.
 
 <table><tr><td valign="top" width="33%">
 
