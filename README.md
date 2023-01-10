@@ -19,8 +19,7 @@
 [nft-genertor-python](https://github.com/enoobis/nft-genertor)</br> 
 [pong-game-python](https://github.com/enoobis/pong-game-python)</br>
 [snake-game-python](https://github.com/enoobis/snake-game-python)</br> 
-
-[password-generator-python](https://github.com/enoobis/password-generator-python)</br>
+[pass-gen-python](https://github.com/enoobis/password-generator-python)</br>
 
 
 </td><td valign="top" width="40%">
