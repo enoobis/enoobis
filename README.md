@@ -64,13 +64,10 @@ More on [simonwillison.net](https://simonwillison.net/)
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
-  
-  
-  
- <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
- ![](https://profile-counter.glitch.me/Enoobis/count.svg)
- <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
  
+<div align="center">
+![](https://profile-counter.glitch.me/Enoobis/count.svg)
+</div>
   
 ```html
 /(///(//////////////////(#&&&&&&&##&&&@%&&&&%@&@&%@%%///*/*////*////*//*/*///*/* We're no strangers to love
