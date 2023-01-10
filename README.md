@@ -22,13 +22,13 @@
 [snake-game-python](https://github.com/enoobis/snake-game-python)</br> 
 [password-generator-python](https://github.com/enoobis/password-generator-python)</br>
  
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 ### BLOG
 <!-- blog starts -->
 www.enoobis.ga
  
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 ### YOUTUBE
 <!-- tils starts -->
