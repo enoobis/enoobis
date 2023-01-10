@@ -9,7 +9,7 @@
 
 <td align="left">
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### PROJECTS
 <!-- recent_releases starts -->
