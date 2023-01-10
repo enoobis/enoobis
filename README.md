@@ -1,55 +1,47 @@
-# My GitHub Profile
+| Repository Name | Description                                   | Language | 
+|------------------|-----------------------------------------------|----------| 
+| [project-1](https://github.com/username/project-1) | A sample project showcasing my skills in language X | Language X | 
+| [project-2](https://github.com/username/project-2) | Another sample project showcasing my skills in language Y | Language Y | 
+| [project-3](https://github.com/username/project-3) | A collaborative project with a team of developers | Multiple Languages | 
 
-## Overview
+| Year | Contributions | 
+|------|---------------| 
+| 2018 | 100 | 
+| 2019 | 200 | 
+| 2020 | 300 | 
 
-Here's a quick overview of my GitHub profile, including information about my repositories and contributions.
-
-## Repositories
-
-| Repository Name | Description | Language |
-|------------------|-------------|----------|
-| [project-1](https://github.com/username/project-1) | A sample project showcasing my skills in language X | Language X |
-| [project-2](https://github.com/username/project-2) | Another sample project showcasing my skills in language Y | Language Y |
-| [project-3](https://github.com/username/project-3) | A collaborative project with a team of developers | Multiple Languages |
-
-## Contributions
-
-| Year | Contributions |
-|------|---------------|
-| 2018 | 100 |
-| 2019 | 200 |
-| 2020 | 300 |
-
-## Skills
-
-| Skill | Proficiency |
-|-------|-------------|
+| Skill | Proficiency | 
+|-------|-------------| 
 | Language X | 
+| Sub-Skill | Proficiency | 
+|-------|-------------| 
+| syntax | Advanced    | 
+| Libraries | Intermediate | 
 
-| Sub-Skill | Proficiency |
-|-------|-------------|
-| syntax | Advanced |
-| Libraries | Intermediate |
+| Skill | Proficiency | 
+|-------|-------------| 
+| Language Y | Intermediate | 
+| Language Z | Beginner    | 
 
-| Skill | Proficiency |
-|-------|-------------|
-| Language Y | Intermediate |
-| Language Z | Beginner |
+| Institution | Degree    | Field of Study | 
+|-------------|----------|----------------| 
+| University 1 | Bachelor's | Computer Science | 
+| University 2 | Master's  | Artificial Intelligence | 
 
-## Education
+| Year | Award                | 
+|------|----------------------| 
+| 2018 | Best Developer of the Year | 
+| 2019 | Most Innovative Project  | 
+| 2020 | Top Contributor to Open Source Community | 
 
-| Institution | Degree | Field of Study |
-|-------------|--------|----------------|
-| University 1 | Bachelor's | Computer Science |
-| University 2 | Master's | Artificial Intelligence |
+| Video Name | Description                                   | Views | 
+|------------------|--------------------------------------------------|-------| 
+| [My first video](https://youtube.com/watch?v=123) | A sample video showcasing my skills in language X | 1000 | 
+| [My second video](https://youtube.com/watch?v=456) | Another sample video showcasing my skills in language Y | 2000 | 
+| [My third video](https://youtube.com/watch?v=789) | A tutorial on how to use my project | 3000 |
 
-## Awards and Recognition
 
-| Year | Award |
-|------|-------|
-| 2018 | Best Developer of the Year |
-| 2019 | Most Innovative Project |
-| 2020 | Top Contributor to Open Source Community |
+
 ### PROJECTS
  
 <!-- recent_releases starts -->
