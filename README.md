@@ -1,3 +1,5 @@
+<pre>
+
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
   '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
@@ -13,29 +15,28 @@
 │
 ├─▣ Security Researcher
 ├─▣ Content Creator
-├─▣ thewhiteh4t's Blog
-├─▣ I am mostly available at The White Circle
+├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
+├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ Twitter
-├─◈ YouTube
-├─◈ Telegram
-├─◈ LinkedIn
+├─◈ <a href="https://twitter.com/thewhiteh4t">Twitter</a>
+├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
+├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ Seeker
-├─◈ FinalRecon
-├─◈ NExfil
-├─◈ pwnedOrNot
-├─◈ KillCast
-├─◈ FlashSploit
+├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
+├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
+├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
 │
 └───────────────────────────────▰▰▰
-
-
+</pre>
