@@ -3,7 +3,7 @@
 │
 ├─▣ Security Researcher
 ├─▣ Content Creator
-├─▣ <a href="http://www.coboloncogs.org/INDEX.HTM">website</a>
+├─▣ <a href="http://www.coboloncogs.org/INDEX.HTM">[website]</a>
 ├─▣ 135.136.190.170 (enoobis.ru)
 ├─▣ <a href="https://github.com/tabimono/enoobis.ru">[tabimono/enoobis.ru]</a>
 └───────────────────────────────▰▰▰
